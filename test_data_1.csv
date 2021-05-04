@@ -1,0 +1,27 @@
+chemical_name,Endpoint,direction,noael_dose,Category
+chem1,ep1,Increase,0.5,low NOAEL
+chem1,ep2,Increase,0.5,low NOAEL
+chem1,ep3,Increase,0.5,low NOAEL
+chem1,ep4,Increase,0.5,low NOAEL
+chem2,ep1,Increase,0.5,low NOAEL
+chem2,ep2,Increase,0.5,low NOAEL
+chem2,ep3,Increase,0.5,low NOAEL
+chem2,ep4,Decrease,0.5,low NOAEL
+chem3,ep1,Increase,0.5,low NOAEL
+chem3,ep2,Increase,0.5,low NOAEL
+chem3,ep3,Increase,0.5,low NOAEL
+chem3,ep4,Increase,0.5,low NOAEL
+chem3,ep5,Increase,0.5,low NOAEL
+chem4,ep1,Decrease,0.5,low NOAEL
+chem4,ep2,Increase,0.5,low NOAEL
+chem4,ep3,Increase,0.5,low NOAEL
+chem4,ep4,Increase,0.5,low NOAEL
+chem5,ep1,Increase,0.5,low NOAEL
+chem5,ep2,Increase,0.5,low NOAEL
+chem5,ep3,Increase,0.5,low NOAEL
+chem5,ep4,Decrease,0.5,low NOAEL
+chem6,ep1,Increase,0.5,low NOAEL
+chem6,ep2,Increase,0.5,low NOAEL
+chem6,ep3,Increase,0.5,low NOAEL
+chem6,ep4,Increase,0.5,low NOAEL
+chem6,ep5,Increase,0.5,low NOAEL
